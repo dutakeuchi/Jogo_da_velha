@@ -1,0 +1,12 @@
+1 - Melhor formatação do código, definindo funções para processos que podem ser repetidos.
+Implementação de seleção de dificuldade do computador. Não há uso de IA no seu oponente, sendo uma otimização da escolha das posições disponíveis, porém de modo aleatória.
+
+1.1 - Alteração de continuidade de jogo de s/n para 1/2. Maior facilidade em jogar usando somente o teclado numérico
+- Contagem de jogos, vitória, derrotas e empates
+- Possibilidade de escolher por qual caractere será representado
+
+1.1.1 - Alteração da seleção do caractere para que não fique 'X' para o usuário e 'x' para o computador
+
+Próximos passos:
+- Possibilidade de jogar contra outro player
+
