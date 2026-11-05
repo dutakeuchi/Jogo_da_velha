@@ -36,7 +36,7 @@ aleatoriedade ponderada.
 
 3. Execute o jogo:
 
-    Jogo da Velha.py
+    python jogo_da_velha.py
 
 
 
