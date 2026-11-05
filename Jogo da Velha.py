@@ -36,7 +36,7 @@ def usuarioNumero(nEscolhidos):
                 else:
                     print ('Posição já ocupada. Selecione uma nova posição')
             else:
-                print ('Valor inválido. Escolha um posição entre 1 e 9 dos disponíveis')
+                print ('Valor inválido. Escolha uma posição entre 1 e 9 dos disponíveis')
         except:
             print('Digite um valor válido')
 
@@ -238,7 +238,3 @@ print ('Empate: ',empate)
 print('Fim de jogo. Obrigado por participar!')
 print ('\n')
 input ('Digite qualquer tecla para sair')
-    
-            
-        
-        
